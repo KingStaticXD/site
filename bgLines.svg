@@ -1,0 +1,63 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 1" clip-path="url(#clip0_2_2)">
+<g id="darkGroup">
+<line id="Line 1" x1="40.5" x2="40.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<path id="Line 2" d="M120.5 0L120.5 720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 3" x1="200.5" x2="200.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 4" x1="280.5" x2="280.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 5" x1="360.5" x2="360.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<path id="Line 6" d="M440.5 0L440.5 720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 7" x1="520.5" x2="520.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 8" x1="600.5" x2="600.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 9" x1="680.5" x2="680.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<path id="Line 10" d="M760.5 0V720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 11" x1="840.5" x2="840.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 12" x1="920.5" x2="920.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 13" x1="1000.5" x2="1000.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<path id="Line 14" d="M1080.5 0V720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 15" x1="1160.5" x2="1160.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 16" x1="1240.5" x2="1240.5" y2="720" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 17" y1="40.5" x2="1280" y2="40.5" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 18" y1="120.5" x2="1280" y2="120.5" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 19" y1="200.5" x2="1280" y2="200.5" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 20" y1="280.5" x2="1280" y2="280.5" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 21" y1="360.5" x2="1280" y2="360.5" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 22" y1="440.5" x2="1280" y2="440.5" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 23" y1="520.5" x2="1280" y2="520.5" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 24" y1="600.5" x2="1280" y2="600.5" stroke="white" stroke-opacity="0.2"/>
+<line id="Line 25" y1="680.5" x2="1280" y2="680.5" stroke="white" stroke-opacity="0.2"/>
+</g>
+<g id="lightGroup">
+<line id="Line 1_2" x1="40.5" x2="40.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<path id="Line 2_2" d="M120.5 0L120.5 720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 3_2" x1="200.5" x2="200.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 4_2" x1="280.5" x2="280.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 5_2" x1="360.5" x2="360.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<path id="Line 6_2" d="M440.5 0L440.5 720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 7_2" x1="520.5" x2="520.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 8_2" x1="600.5" x2="600.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 9_2" x1="680.5" x2="680.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<path id="Line 10_2" d="M760.5 0V720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 11_2" x1="840.5" x2="840.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 12_2" x1="920.5" x2="920.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 13_2" x1="1000.5" x2="1000.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<path id="Line 14_2" d="M1080.5 0V720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 15_2" x1="1160.5" x2="1160.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 16_2" x1="1240.5" x2="1240.5" y2="720" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 17_2" y1="40.5" x2="1280" y2="40.5" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 18_2" y1="120.5" x2="1280" y2="120.5" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 19_2" y1="200.5" x2="1280" y2="200.5" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 20_2" y1="280.5" x2="1280" y2="280.5" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 21_2" y1="360.5" x2="1280" y2="360.5" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 22_2" y1="440.5" x2="1280" y2="440.5" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 23_2" y1="520.5" x2="1280" y2="520.5" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 24_2" y1="600.5" x2="1280" y2="600.5" stroke="white" stroke-opacity="0.5"/>
+<line id="Line 25_2" y1="680.5" x2="1280" y2="680.5" stroke="white" stroke-opacity="0.5"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2_2">
+<rect width="1280" height="720" fill="white"/>
+</clipPath>
+</defs>
+</svg>
